@@ -1,4 +1,4 @@
-# OperaTerra AS - Azure Infrastructure Project
+# Azure Infrastructure Project
 
 ## Overview
 
