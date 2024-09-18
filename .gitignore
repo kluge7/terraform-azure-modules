@@ -1,0 +1,24 @@
+# Terraform State
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.backup
+
+# Crash logs
+crash.log
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Sensitive files
+*.pem
+*.key
+
+# Other ignored files
+.DS_Store
+
+# Other
+terraform.tfvars
+private_key.pem
+/screenshots
